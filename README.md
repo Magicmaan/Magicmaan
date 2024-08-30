@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##Languages
--Python
--lua
--C++
+## Languages
+- Python
+- lua
+- C++
